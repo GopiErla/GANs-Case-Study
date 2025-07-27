@@ -1,6 +1,6 @@
 # Generative Adversarial Networks (GANs): Case Study
 
-This repository contains the implementation of Generative Adversarial Networks (GANs) developed for the *Advanced Research Topics in Data Science* module at the University of Hertfordshire. The project, completed by Gopi Erla on July 27, 2025, explores GANs for synthetic 2D data and real-world sketch generation using PyTorch.
+This repository contains the implementation of Generative Adversarial Networks (GANs) developed for the *Advanced Research Topics in Data Science* module at the University of Hertfordshire. The project, completed by Gopi Erla, explores GANs for synthetic 2D data and real-world sketch generation using PyTorch.
 
 ## Introduction
 
