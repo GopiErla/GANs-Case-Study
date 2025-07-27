@@ -1,6 +1,6 @@
 # Generative Adversarial Networks (GANs): Case Study
 
-This repository contains a Jupyter notebook implementing Generative Adversarial Networks (GANs) for the *Advanced Research Topics in Data Science* module at the University of Hertfordshire. The project, completed by Gopi Erla on July 27, 2025, explores GANs for generating synthetic 2D data and real-world sketches using PyTorch.
+This repository contains a Jupyter notebook implementing Generative Adversarial Networks (GANs) for the *Advanced Research Topics in Data Science* module at the University of Hertfordshire. The project, completed by Gopi Erla, explores GANs for generating synthetic 2D data and real-world sketches using PyTorch.
 
 ## Project Overview
 
@@ -150,4 +150,3 @@ This project demonstrated GANs’ ability to model synthetic 2D distributions an
 - **Gopi Erla**
 - **Module**: Advanced Research Topics in Data Science
 - **Institution**: University of Hertfordshire
-- **Date**: July 27, 2025
